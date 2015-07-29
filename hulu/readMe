@@ -1,0 +1,19 @@
+HULU PROGRAMMING EXERCISE
+=========================
+This programming exercise is implemented in python
+
+BUILD
+=====
+command: python hulu.py
+
+
+WORKING OF THE PROGRAM
+=======================
+
+When the phrase starts to fill up with correct letters, it will search the dictionary only for words which would match the regex specified by the combination of blanks and letters. e.g. the incomplete word CAL-F-RNIA would be converted to the regex ^CAL[a-zA-Z]F[a-zA-Z]RNIA$ and then searched for, and the conditional probability of the next best character to guess would be based on these results.
+
+I also keep track of a list of already guessed letters, just so it doesn't keep guessing a previously-most-common-character which is still-most-common.
+
+EFFICIENCY OF THE PROG
+======================
+The efficiency of the program depends on the dictionary. How many words the dictionary contain ? More the number of words more is the probability of guessing the pharase and there by results in saving more prisoners.
