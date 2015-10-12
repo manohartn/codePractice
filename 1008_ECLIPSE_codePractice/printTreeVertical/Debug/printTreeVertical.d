@@ -1,0 +1,1 @@
+printTreeVertical.d: ../printTreeVertical.cpp

@@ -1,0 +1,1 @@
+stringIsomorphic.d: ../stringIsomorphic.cpp

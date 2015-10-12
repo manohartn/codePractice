@@ -1,0 +1,1 @@
+permuteString.d: ../permuteString.cpp

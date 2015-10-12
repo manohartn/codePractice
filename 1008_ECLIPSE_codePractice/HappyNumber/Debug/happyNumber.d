@@ -1,0 +1,1 @@
+happyNumber.d: ../happyNumber.cpp

@@ -1,0 +1,1 @@
+isFullBt.d: ../isFullBt.cpp

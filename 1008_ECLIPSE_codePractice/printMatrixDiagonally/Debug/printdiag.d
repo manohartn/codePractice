@@ -1,0 +1,1 @@
+printdiag.d: ../printdiag.cpp

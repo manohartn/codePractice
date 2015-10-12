@@ -1,0 +1,1 @@
+msft.d: ../msft.cpp

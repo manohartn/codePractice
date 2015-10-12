@@ -1,0 +1,1 @@
+findPivot.d: ../findPivot.cpp

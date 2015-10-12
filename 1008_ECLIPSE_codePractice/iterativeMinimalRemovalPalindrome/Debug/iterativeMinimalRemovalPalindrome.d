@@ -1,0 +1,2 @@
+iterativeMinimalRemovalPalindrome.d: \
+ ../iterativeMinimalRemovalPalindrome.cpp

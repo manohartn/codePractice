@@ -1,0 +1,1 @@
+maxprodSubArray.d: ../maxprodSubArray.cpp

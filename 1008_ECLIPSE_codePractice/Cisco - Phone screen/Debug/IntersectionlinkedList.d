@@ -1,0 +1,1 @@
+IntersectionlinkedList.d: ../IntersectionlinkedList.cpp

@@ -1,0 +1,1 @@
+inheritanceUnderstand.d: ../inheritanceUnderstand.cpp

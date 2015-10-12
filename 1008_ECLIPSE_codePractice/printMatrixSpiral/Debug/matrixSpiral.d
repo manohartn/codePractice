@@ -1,0 +1,1 @@
+matrixSpiral.d: ../matrixSpiral.cpp

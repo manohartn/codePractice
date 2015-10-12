@@ -1,0 +1,1 @@
+parenthesisPermutation.d: ../parenthesisPermutation.cpp

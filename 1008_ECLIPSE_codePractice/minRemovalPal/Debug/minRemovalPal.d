@@ -1,0 +1,1 @@
+minRemovalPal.d: ../minRemovalPal.cpp

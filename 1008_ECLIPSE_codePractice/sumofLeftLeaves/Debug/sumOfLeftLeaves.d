@@ -1,0 +1,1 @@
+sumOfLeftLeaves.d: ../sumOfLeftLeaves.cpp
