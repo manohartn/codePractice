@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>553_A1_tf_df</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>manohar_thagadurNataraju.pcy.py</name>
+			<type>1</type>
+			<location>/home/manohar/USCF15/553-DM/Assignment_2/manohar_thagadurNataraju.pcy.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>
